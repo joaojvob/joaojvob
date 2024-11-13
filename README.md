@@ -1,7 +1,5 @@
 ## Hi ✨
  
-<h5 align="left">Graduado em Ciência da Computação com conhecimentos em algumas linguagens de programação,<br>banco de dados e desenvolvimento web. Habilidade em resolução de problemas e aprendizagem rápida.<br>Apliquei meu conhecimento desenvolvendo alguns projetos no quais estão disponíveis no Github.<br>Estou trabalhando/estudando cada vez mais para melhorar e aperfeiçoar meus conhecimentos na área<br>da TI.<br><br>"O prazer no trabalho aperfeiçoa a obra"<br>-Aristóteles</h5>
-
 ###
 
 <p align="left">- 👨‍💻 Atualmente trabalho como desenvolvedor de software na CertifiCafé<br>- 💻 Conhecimento em PHP, JavaScript e Laravel.</p>
@@ -30,5 +28,6 @@
 
 <br clear="both">
 
+<h5 align="left">Graduado em Ciência da Computação com conhecimentos em algumas linguagens de programação,<br>banco de dados e desenvolvimento web. Habilidade em resolução de problemas e aprendizagem rápida.<br>Apliquei meu conhecimento desenvolvendo alguns projetos no quais estão disponíveis no Github.<br>Estou trabalhando/estudando cada vez mais para melhorar e aperfeiçoar meus conhecimentos na área<br>da TI.<br><br>"O prazer no trabalho aperfeiçoa a obra"<br>-Aristóteles</h5>
 
 ###
