@@ -6,17 +6,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-julio-veriato-oliveira-bengno-9325711a7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/joaojvob/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="25" height="20" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
