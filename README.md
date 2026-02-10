@@ -2,7 +2,7 @@
  
 ###
 
-<p align="left">- 👨‍💻 Atualmente trabalho como desenvolvedor de software na CertifiCafé<br>- 💻 Conhecimento em PHP, JavaScript e Laravel.</p>
+<p align="left">- 👨‍💻 Atualmente trabalho como desenvolvedor de software no VersaSaude<br>- 💻 Conhecimento em PHP, JavaScript, Laravel e flutter.</p>
 
 ###
 
