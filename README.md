@@ -5,7 +5,7 @@ Sou um Desenvolvedor de Software focado em construir, refatorar e manter sistema
 ### 💻 Perfil Profissional
 
 - 💼 Atualmente atuo como Desenvolvedor de Software no **VersaSaúde**.
-- 🎓 Graduado em Ciência da Computação.
+- 🎓 Graduado em Ciência da Computação e Pós-Graduação em Engenharia de Software.
 - ⚙️ Experiência prática com refatoração de sistemas críticos, processamento de relatórios pesados (dumps de banco de dados) e orquestração de ambientes de desenvolvimento.
 - 🚀 Foco em: Arquitetura de Software, Clean Code, fluxos avançados de versionamento de código e entrega de valor contínua.
 
