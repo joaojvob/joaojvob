@@ -1,42 +1,20 @@
-## Olá! 👋
- 
-Sou um Desenvolvedor de Software focado em construir, refatorar e manter sistemas escaláveis e resilientes. Tenho forte atuação na resolução de problemas complexos, otimização de performance e manipulação de grandes volumes de dados.
+# João Julio
 
-### 💻 Perfil Profissional
+Desenvolvedor de software em Caratinga, MG. Trabalho principalmente com PHP e Laravel no back-end, Vue no front-end e Flutter no mobile.
 
-- 💼 Atualmente atuo como Desenvolvedor de Software no **VersaSaúde**.
-- 🎓 Graduado em Ciência da Computação e Pós-Graduação em Engenharia de Software.
-- ⚙️ Experiência prática com refatoração de sistemas críticos, processamento de relatórios pesados (dumps de banco de dados) e orquestração de ambientes de desenvolvimento.
-- 🚀 Foco em: Arquitetura de Software, Clean Code, fluxos avançados de versionamento de código e entrega de valor contínua.
+Hoje estou no **Versa Saúde**, num sistema legado de gestão de saúde pública: corrijo bugs, refatoro código, otimizo consultas ao banco e desenvolvo telas em Vue e relatórios em JasperReports. No dia a dia também lido com infraestrutura: containers Docker e pipelines de CI para testes, homologação e produção.
 
-### 🛠️ Tecnologias e Ferramentas
+Antes, na Certificafe, desenvolvi funcionalidades de um ERP em Laravel e um app Flutter com arquitetura offline-first.
 
-- **Backend & Arquitetura:** Java, PHP (Laravel)
-- **Frontend & Mobile:** JavaScript, Flutter
-- **Infraestrutura & DevOps:** Docker, Git, ambiente Linux/Ubuntu
-- **Banco de Dados:** Modelagem e otimização de queries
+**Stack**
 
-<br clear="both">
+- Back-end: PHP, Laravel, Java, SQL (MySQL)
+- Front-end: Vue, JavaScript, Blade
+- Mobile: Flutter, Dart
+- Relatórios: JasperReports
+- Infra: Docker, CI/CD, Linux
+- Testes: unitários e de feature
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaojvob&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=13&date_format=M%20j%5B,%20Y%5D&order=3" height="156" alt="streak graph"  />
-</div>
+**Formação:** Bacharelado em Ciência da Computação (Doctum, 2023) e pós-graduação em Engenharia de Software (Doctum, 2024).
 
-<br clear="both">
-
-<h5 align="left">
-Busco construir soluções tecnológicas que unam performance, segurança e manutenibilidade. Acredito na tecnologia como a principal ferramenta para escalar processos do mundo real.
-<br><br>
-<i>"O prazer no trabalho aperfeiçoa a obra"</i><br>- Aristóteles
-</h5>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-julio-veriato-oliveira-benigno-9325711a7/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/joaojvob/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
-
-###
+[Portfólio](https://portifolio-jjvob.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-julio-veriato-oliveira-benigno-9325711a7/) · [E-mail](mailto:joaojuliovob@gmail.com)
